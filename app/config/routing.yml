@@ -1,0 +1,5 @@
+prueba_blog:
+    resource: "@PruebaBlogBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
